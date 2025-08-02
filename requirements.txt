@@ -1,0 +1,5 @@
+faiss-cpu
+faiss-gpu
+numpy
+pickle-mixin
+typing-extensions
